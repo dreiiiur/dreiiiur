@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei Poma</h1>
 <h3 align="center">BSIT Student from Bulacan, Philippines</h3>
 
-- 🔭 I’m currently working on **Shift101 (Intern)*
+- 🔭 I’m currently working at **Shift101 (Intern)**
 
 - 🌱 I’m currently learning **React**
 

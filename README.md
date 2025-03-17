@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Shift101 (Intern)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **https://www.facebook.com/dreiur/**
 

@@ -33,6 +33,7 @@
 ###
 
 <h3 align="left">👩🏾‍💻 Learning Front-End Development and UI/UX Designs.</h3>
+<h3 align="left">Freelancer (Web Design, Graphic Design, Mobile App Design.</h3>
 
 ###
 

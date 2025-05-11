@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/XOo3HCMsfcwAAAAd/karina-amen.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/6mSpryuLY3F1Ex11dE/giphy.gif?cid=6c09b9528e9k7ttf2a2ykf3jghg097bejl7bwc8low2frv6q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
 ###

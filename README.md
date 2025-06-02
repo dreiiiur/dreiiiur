@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">4th year BSIT student from Bulacan State University Bustos Campus.<br><br>-🔭 I’m currently working at Shift101 (Intern)<br>- 🌱 I’m currently learning React.js</p>
+<p align="left">4th year BSIT student from Bulacan State University Bustos Campus.<br><br>-🔭 I’m currently a Freelance Web Developer and UI/UX and Web Designer<br>- 🌱 I’m currently learning React.js</p>
 
 ###
 
